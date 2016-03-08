@@ -4,7 +4,7 @@
   <PropertyGroup>
     <DestinationFolder>src</DestinationFolder>
   </PropertyGroup>
-  
+      
   <ItemGroup>
     <TxtFiles Include="**/*.cs" />
   </ItemGroup>
